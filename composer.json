@@ -8,5 +8,10 @@
   "maintainers": [
     "Mike Thorn <mthorn@devlucid.com>"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "bin": [
+      "scripts/copy_fonts.php",
+      "scripts/launch.sh",
+      "scripts/tail-log.sh"
+  ]
 }
